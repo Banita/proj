@@ -1,0 +1,18 @@
+
+development:
+ adapter: oracle_enhanced
+ database: XE
+ username: proj
+ password: proj
+
+ test:
+  adapter: oracle_enhanced
+  database: XE
+  username: proj_test
+  password: proj_test
+
+ production:
+  adapter: oracle_enhanced
+  database: XE
+  username: proj_prod
+  password: proj_prod
