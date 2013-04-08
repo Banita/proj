@@ -1,8 +1,8 @@
 class StaticPagesController < ApplicationController
+def home
+end
 
-	def Home
-	end
+def about_xebo
+end
 
-	def AboutXebo
-	end
 end
